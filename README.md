@@ -12,20 +12,24 @@ It uses data preprocessing, feature selection, and classification algorithms to 
 pip install numpy pandas scikit-learn imbalanced-learn matplotlib joblib flask
 
 ## Packages 
-Numpy - Combines and formats input data as arrays
-Pandas - Reads and handles structured CSV data 
-Sklearn.preprocessing , model selection
-Matplotlib
-os - interact with the operating system
-imblearn.over_sampling - ddress class imbalance
-Joblib - Loads the saved trained machine learning model
-Flask - Web framework to build the web interface
-Render_template - Renders HTML templates
-Request - Handles HTTP form data submitted by the user
+- Numpy - Combines and formats input data as arrays
+- Pandas - Reads and handles structured CSV data 
+- Sklearn.preprocessing , model selection
+- Matplotlib
+- os - interact with the operating system
+- imblearn.over_sampling - ddress class imbalance
+- Joblib - Loads the saved trained machine learning model
+- Flask - Web framework to build the web interface
+- Render_template - Renders HTML templates
+- Request - Handles HTTP form data submitted by the user
 
 ## Sample Output :
 
+## Legitimate 
+
 <img width="619" height="733" alt="image" src="https://github.com/user-attachments/assets/58b59c58-3acd-4297-af34-aecc1c73866e" />
+
+## Fraudulent
 
 <img width="624" height="718" alt="image" src="https://github.com/user-attachments/assets/9cec24b8-a314-41cf-95e9-4168f95e4595" />
 
